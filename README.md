@@ -3,7 +3,8 @@
  **A simple portfolio website**
 
  # How i can use it ?
- To clone and run this application, you'll need Git and your command line:
+ To clone and run this website, you'll need Git and your command line:
+ 
 `git clone https://github.com/codingwithabdallah/portfolio-website.git`
 > If you don't want to code it from zero just downloading it, you can only change the images and names 
 
